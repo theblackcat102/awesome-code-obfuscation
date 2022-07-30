@@ -99,6 +99,17 @@ Since obfuscation results can varies among different libraries, please read the 
 
 [Z00bfuscator - the simple, open-source, cross-platform obfuscator for .NET Assemblies built in .NET Core](https://github.com/Dentrax/Z00bfuscator)
 
+
+## Others
+
+Some interesting materials which doesn't fit in library or open source code lists
+
+* [The International Obfuscated C Code Contest ](https://www.ioccc.org/)
+
+
+
+
+
 ## Disclaimer
 
 The authors of this repository are not responsible for any misuse of the information. You shall not misuse the information to gain unauthorized access and/or write malicious programs. This information shall only be used to expand knowledge and not for causing malicious or damaging attacks. You may try all of these techniques on your own computer at your own risk. Performing any hack attempts/tests without written permission from the owner of the computer system is illegal.
