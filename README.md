@@ -11,13 +11,17 @@ What code obfuscation **does not**
 
 [X] Protect your code or senstive details
 
-Since obfuscation results can varies among different libraries, please read each libraries readme for more details.
+Since obfuscation results can varies among different libraries, please read the readme of each library for more details.
 
-## Library
+## Projects
 
 ### Assembly
 
 [OWASP - Shellcode obfuscation](https://github.com/OWASP/ZSC)
+
+[Fukuri - protection framework what targeting on shellcode and executable files (wip)](https://github.com/jnastarot/furikuri)
+
+[ASM-encrypt - Python parser for assembly obfuscation](https://github.com/mcdulltii/ASM-encrypt)
 
 ### C++
 
@@ -43,7 +47,7 @@ Since obfuscation results can varies among different libraries, please read each
 
 [Lycan - CLI javascript code obfuscator](https://github.com/OTAKKATO/lycan)
 
-* Note this library ping **167.172.85.80** for versions ( no idea why this is needed, so please use this with caution)
+*  ⚠️ Lycan pings **167.172.85.80** for versions ( no idea why this is needed, so please use this with caution)
 
 [SBPNO - simple javascript obfuscator less than 100 lines](https://github.com/I2rys/SBPNO)
 
@@ -75,6 +79,7 @@ Since obfuscation results can varies among different libraries, please read each
 
 [emojify :) 😊 - Convert python script to ¯\_(ツ)_/¯ ](https://github.com/chris-rands/emojify)
 
+[Pyxl - obfuscate python with base64, demo available in link](https://github.com/PixelDavon/pyxl-obfuscator)
 
 ### Powershell
 
@@ -89,6 +94,10 @@ Since obfuscation results can varies among different libraries, please read each
 
 [VBScript obfuscation to allow PenTesters bypass countermeasures](https://github.com/kkar/VBS-Obfuscator-in-Python)
 
+
+### .Net
+
+[Z00bfuscator - the simple, open-source, cross-platform obfuscator for .NET Assemblies built in .NET Core](https://github.com/Dentrax/Z00bfuscator)
 
 ## Disclaimer
 
