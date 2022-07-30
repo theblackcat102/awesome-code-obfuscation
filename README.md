@@ -23,7 +23,7 @@ Since obfuscation results can varies among different libraries, please read the 
 
 [ASM-encrypt - Python parser for assembly obfuscation](https://github.com/mcdulltii/ASM-encrypt)
 
-### C++
+### C/C++
 
 [Hidecall - Hide C++ header library call after decompilation](https://github.com/TomashuTTTT7/Hidecall)
 
