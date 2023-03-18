@@ -84,6 +84,8 @@ Since obfuscation results can varies among different libraries, please read the 
 ### Powershell
 
 [Powershell basic code obfuscation](https://github.com/secureyourself7/PowerShell_Code_Basic_Obfuscation)
+[Powershell Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation)
+[Powershell Chameleon](https://github.com/klezVirus/chameleon)
 
 ### Web
 
