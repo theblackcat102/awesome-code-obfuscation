@@ -37,7 +37,7 @@ Since obfuscation results can varies among different libraries, please read the 
 
 ### Java
 
-[JObfuscator - Saas service for Java obfuscation](https://www.pelock.com/products/jobfuscator)
+[JObfuscator - SaaS for Java obfuscation](https://www.pelock.com/products/jobfuscator)
 
 
 ### JavaScript
