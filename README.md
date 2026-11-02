@@ -51,6 +51,8 @@ Since obfuscation results can varies among different libraries, please read the 
 
 [SBPNO - simple javascript obfuscator less than 100 lines](https://github.com/I2rys/SBPNO)
 
+[REAShield - hardens shipped JS/Electron against automated, agent-driven reverse engineering (e.g. REA): off-device relocation, sealing, WASM, computed dispatch, decoys; measured vs the real REA](https://github.com/HMAKT99/reashield)
+
 
 ### PHP
 
@@ -80,6 +82,8 @@ Since obfuscation results can varies among different libraries, please read the 
 [emojify :) 😊 - Convert python script to ¯\_(ツ)_/¯ ](https://github.com/chris-rands/emojify)
 
 [Pyxl - obfuscate python with base64, demo available in link](https://github.com/PixelDavon/pyxl-obfuscator)
+
+[REAShield - hardens shipped Python against automated reverse engineering: server-side relocation, AES-GCM sealing, computed dispatch, string indirection](https://github.com/HMAKT99/reashield)
 
 ### Powershell
 
